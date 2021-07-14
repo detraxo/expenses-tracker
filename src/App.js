@@ -7,7 +7,7 @@ import ExpenseDate from "./components/Expenses/ExpenseDate";
 const DUMMY_EXPENSES = [
   {
     id: "e1",
-    title: "Toilet Paper",
+    title: "Internet",
     amount: 94.12,
     date: new Date(2020, 7, 14),
   },
